@@ -1,2 +1,2 @@
 # Backend in another repo /bouncy-backend
-## App usage will be updated later
+## App usage and description will be updated later
